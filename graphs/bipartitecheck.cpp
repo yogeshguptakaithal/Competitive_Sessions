@@ -6,6 +6,9 @@
 //Q->uva11396
 //sol->https://ideone.com/m22tBG
 
+//**Q->https://codeforces.com/contest/1144/problem/F
+//sol->https://codeforces.com/contest/1144/submission/86986527
+
 #include<bits/stdc++.h>
 #include <fstream>
 using namespace std;
