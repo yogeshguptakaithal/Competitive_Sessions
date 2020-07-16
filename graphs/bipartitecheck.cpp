@@ -23,7 +23,6 @@ int main(){
         side.assign(n,-1);
         while(e--){
         cin>>a>>b;
-        if(a==0&&b==0)break;
         adj[a-1].push_back(b-1);
         adj[b-1].push_back(a-1);  //if undirected
         }
@@ -55,8 +54,8 @@ int main(){
         }
         }
 
-        if(bipart)cout<<"YES"<<endl;
-        else cout<<"NO"<<endl;
+        if(bipart)myfile<<"YES"<<endl;
+        else myfile<<"NO"<<endl;
 
 
      side.clear();
