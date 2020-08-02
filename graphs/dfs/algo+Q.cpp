@@ -1,6 +1,10 @@
 //Q-> https://codeforces.com/problemset/problem/580/C
 //sol->https://codeforces.com/contest/580/submission/70590876
 
+//impQ->https://codeforces.com/problemset/problem/744/A
+//sol->https://codeforces.com/contest/744/submission/88707934
+
+
 //Q->https://codeforces.com/problemset/problem/520/B
 //sol->https://codeforces.com/contest/520/submission/86323102
 
