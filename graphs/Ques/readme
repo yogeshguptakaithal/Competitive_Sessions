@@ -1,0 +1,7 @@
+Q1->first line of input has n and k and then we have coordinates of points in next n lines
+approach-> approach is using minimum spamming forest. we break the loop when we have k number of non connected sets and
+wieght just after that is our answer because if there exist a smaller weight which can join 2 sets then it has been already processed
+
+
+Q3->first line of input has n and next n lines has n edjes
+approach->apprach is by using union find
