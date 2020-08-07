@@ -3,5 +3,8 @@ approach-> approach is using minimum spamming forest. we break the loop when we 
 wieght just after that is our answer because if there exist a smaller weight which can join 2 sets then it has been already processed
 
 
+Q2->it is modified bellman ford for atmost k edjes ....relaxation is done distances based on previous iteration
+
+
 Q3->first line of input has n and next n lines has n edjes
 approach->apprach is by using union find
