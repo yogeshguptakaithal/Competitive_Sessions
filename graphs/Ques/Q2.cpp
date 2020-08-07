@@ -26,7 +26,7 @@ dis[s]=0;
 for (int i=0; i<k; ++i){
     map<long,long>tempdis; tempdis.clear();
         for (int j=0; j<m; ++j){
-            if (dis[ed[j][1]] > LONG_MIN){
+            if (dis[ed[j][1]] < LONG_MAX){
                 
                 if(dis[ed[j][2]]>dis[ed[j][1]] + ed[j][0])
                 tempdis[ed[j][2]]=dis[ed[j][1]] + ed[j][0];
