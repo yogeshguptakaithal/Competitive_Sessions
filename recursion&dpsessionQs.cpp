@@ -1,6 +1,13 @@
-https://www.spoj.com/problems/ACODE //explain this by both recurs and dp tabulation
-https://practice.geeksforgeeks.org/problems/number-of-coins/0     
-https://codeforces.com/problemset/problem/455/A                 
+https:https:https://practice.geeksforgeeks.org/problems/total-decoding-messages/0      //explain this by both recurs and dp tabulation
+sol->
+  //recursion(2^n)complexity->https://ide.geeksforgeeks.org/r9HftH7Prd
+  //dp tabulation(On)->
+
+https://practice.geeksforgeeks.org/problems/number-of-coins/0  
+sol->
+
+https://codeforces.com/problemset/problem/455/A      
+sol->
                 
 
 
