@@ -4,13 +4,13 @@ sol->
   //dp tabulation(On)->https://ide.geeksforgeeks.org/H8UKMSOc2b
   
 https://codeforces.com/problemset/problem/455/A      
-sol->
-  
+sol->https://ide.geeksforgeeks.org/8hGtfiWFSm
+
+
 https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0
 sol->https://ide.geeksforgeeks.org/odh4R5Ajpm
-                
 
-https://practice.geeksforgeeks.org/problems/number-of-coins/0  
+https://practice.geeksforgeeks.org/problems/number-of-coins/0 
 sol->
 
 
@@ -18,11 +18,12 @@ sol->
 
 
 Practice Q->
-https://www.hackerrank.com/challenges/the-power-sum/problem     //recursion
+https://www.hackerrank.com/challenges/the-power-sum/problem     //recursion 
 https://leetcode.com/problems/house-robber/
 https://codeforces.com/problemset/problem/1195/C
 https://leetcode.com/problems/minimum-cost-for-tickets/
 https://codeforces.com/problemset/problem/977/F
+https://practice.geeksforgeeks.org/problems/minimum-sum-partition/0
 
 go to top 20 dp qestions gfg
 
