@@ -2,16 +2,18 @@ https:https:https://practice.geeksforgeeks.org/problems/total-decoding-messages/
 sol->
   //recursion(2^n)complexity->https://ide.geeksforgeeks.org/J0tful5JzN
   //dp tabulation(On)->https://ide.geeksforgeeks.org/H8UKMSOc2b
-
-https://practice.geeksforgeeks.org/problems/number-of-coins/0  
-sol->
-
+  
 https://codeforces.com/problemset/problem/455/A      
 sol->
   
 https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0
 sol->https://ide.geeksforgeeks.org/odh4R5Ajpm
                 
+
+https://practice.geeksforgeeks.org/problems/number-of-coins/0  
+sol->
+
+
 
 
 
