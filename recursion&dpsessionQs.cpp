@@ -8,6 +8,9 @@ sol->
 
 https://codeforces.com/problemset/problem/455/A      
 sol->
+  
+https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0
+sol->https://ide.geeksforgeeks.org/odh4R5Ajpm
                 
 
 
@@ -18,5 +21,7 @@ https://leetcode.com/problems/house-robber/
 https://codeforces.com/problemset/problem/1195/C
 https://leetcode.com/problems/minimum-cost-for-tickets/
 https://codeforces.com/problemset/problem/977/F
+
+go to top 20 dp qestions gfg
 
 
