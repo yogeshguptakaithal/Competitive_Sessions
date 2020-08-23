@@ -5,19 +5,19 @@
                              
                    https://he-s3.s3.amazonaws.com/media/uploads/0e2df2e.png
 
-https:https:https://practice.geeksforgeeks.org/problems/total-decoding-messages/0      //explain this by both recurs and dp tabulation
+Q1->https:https:https://practice.geeksforgeeks.org/problems/total-decoding-messages/0      //explain this by both recurs and dp tabulation
 sol->
   //recursion(2^n)complexity->https://ide.geeksforgeeks.org/J0tful5JzN
   //dp tabulation(On)->https://ide.geeksforgeeks.org/H8UKMSOc2b
   
-https://codeforces.com/problemset/problem/455/A      
+Q2->https://codeforces.com/problemset/problem/455/A      
 sol->https://ide.geeksforgeeks.org/8hGtfiWFSm
 
 
-https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0
+Q3->https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0
 sol->https://ide.geeksforgeeks.org/odh4R5Ajpm
 
-https://practice.geeksforgeeks.org/problems/number-of-coins/0 
+Q4->https://practice.geeksforgeeks.org/problems/number-of-coins/0 
 sol->https://ide.geeksforgeeks.org/WBkvkR5Mfu
 
 
