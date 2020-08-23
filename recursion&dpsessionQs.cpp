@@ -1,3 +1,10 @@
+                      function factorial(x)
+                           if x is 0                    // base case
+                                 return 1
+                           return x*factorial(x-1) 
+                             
+                   https://he-s3.s3.amazonaws.com/media/uploads/0e2df2e.png
+
 https:https:https://practice.geeksforgeeks.org/problems/total-decoding-messages/0      //explain this by both recurs and dp tabulation
 sol->
   //recursion(2^n)complexity->https://ide.geeksforgeeks.org/J0tful5JzN
