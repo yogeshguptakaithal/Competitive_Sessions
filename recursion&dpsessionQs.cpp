@@ -14,7 +14,7 @@ Q2->https://practice.geeksforgeeks.org/problems/number-of-coins/0
 sol->https://ide.geeksforgeeks.org/WBkvkR5Mfu
   
 Q3->https://codeforces.com/problemset/problem/455/A      
-sol->https://ide.geeksforgeeks.org/8hGtfiWFSm
+sol->https://ide.geeksforgeeks.org/KjhXrv4e2f
 
 
 Q4->https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0
