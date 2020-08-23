@@ -10,6 +10,9 @@ sol->
   //recursion(2^n)complexity->https://ide.geeksforgeeks.org/J0tful5JzN
   //dp tabulation(On)->https://ide.geeksforgeeks.org/H8UKMSOc2b
   
+Q4->https://practice.geeksforgeeks.org/problems/number-of-coins/0 
+sol->https://ide.geeksforgeeks.org/WBkvkR5Mfu
+  
 Q2->https://codeforces.com/problemset/problem/455/A      
 sol->https://ide.geeksforgeeks.org/8hGtfiWFSm
 
@@ -17,8 +20,7 @@ sol->https://ide.geeksforgeeks.org/8hGtfiWFSm
 Q3->https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0
 sol->https://ide.geeksforgeeks.org/odh4R5Ajpm
 
-Q4->https://practice.geeksforgeeks.org/problems/number-of-coins/0 
-sol->https://ide.geeksforgeeks.org/WBkvkR5Mfu
+
 
 
 
