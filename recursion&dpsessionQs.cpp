@@ -11,7 +11,7 @@ https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0
 sol->https://ide.geeksforgeeks.org/odh4R5Ajpm
 
 https://practice.geeksforgeeks.org/problems/number-of-coins/0 
-sol->
+sol->https://ide.geeksforgeeks.org/WBkvkR5Mfu
 
 
 
