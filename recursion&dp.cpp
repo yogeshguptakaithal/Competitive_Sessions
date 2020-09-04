@@ -36,4 +36,7 @@ https://practice.geeksforgeeks.org/problems/minimum-sum-partition/0
 
 go to top 20 dp qestions gfg
 
+dp very good playlist->
+https://atcoder.jp/contests/dp/tasks
+
 
